@@ -10,42 +10,42 @@ This repository is for studying LeetCode problems by classic patterns and mappin
 
 - [LeetCode Pattern Study Plan](#leetcode-pattern-study-plan)
   - [Patterns Overview](#patterns-overview)
-  - [1. Warmup](#1-warmup)
-  - [2. Pattern: Two Pointers](#2-pattern-two-pointers)
-  - [3. Pattern: Fast \& Slow Pointers](#3-pattern-fast--slow-pointers)
-  - [4. Pattern: Sliding Window](#4-pattern-sliding-window)
-  - [5. Pattern: Merge Intervals](#5-pattern-merge-intervals)
-  - [6. Pattern: Cyclic Sort](#6-pattern-cyclic-sort)
-  - [7. Pattern: In-place Reversal of a Linked List](#7-pattern-in-place-reversal-of-a-linked-list)
-  - [8. Pattern: Stacks](#8-pattern-stacks)
-  - [9. Pattern: Monotonic Stack](#9-pattern-monotonic-stack)
-  - [10. Pattern: Hash Maps](#10-pattern-hash-maps)
-  - [11. Pattern: Tree BFS](#11-pattern-tree-bfs)
-  - [12. Pattern: Tree DFS](#12-pattern-tree-dfs)
-  - [13. Pattern: Two Heaps](#13-pattern-two-heaps)
-  - [14. Pattern: Subsets](#14-pattern-subsets)
-  - [15. Pattern: Modified Binary Search](#15-pattern-modified-binary-search)
-  - [16. Pattern: Bitwise XOR](#16-pattern-bitwise-xor)
-  - [17. Pattern: Top K Elements](#17-pattern-top-k-elements)
-  - [18. Pattern: K-way Merge](#18-pattern-k-way-merge)
-  - [19. Pattern: 0-1 Knapsack (DP)](#19-pattern-0-1-knapsack-dp)
-  - [20. Pattern: Topological Sort (Graph)](#20-pattern-topological-sort-graph)
-  - [21. Pattern: Union Find / Disjoint Set](#21-pattern-union-find--disjoint-set)
-  - [22. Pattern: Graph BFS/DFS](#22-pattern-graph-bfsdfs)
-  - [23. Pattern: Shortest Path (Dijkstra/ BFS)](#23-pattern-shortest-path-dijkstra-bfs)
-  - [24. Pattern: Backtracking](#24-pattern-backtracking)
-  - [25. Pattern: Matrix / Grid Traversal](#25-pattern-matrix--grid-traversal)
-  - [26. Pattern: Prefix Sum \& Difference Array](#26-pattern-prefix-sum--difference-array)
-  - [27. Pattern: Sweep Line](#27-pattern-sweep-line)
-  - [28. Pattern: Trie](#28-pattern-trie)
-  - [29. Pattern: Segment Tree / Binary Indexed Tree](#29-pattern-segment-tree--binary-indexed-tree)
-  - [30. Pattern: Misc \& Test Your Knowledge](#30-pattern-misc--test-your-knowledge)
+  - [0. Warmup](#0-warmup)
+  - [1. Pattern: Two Pointers](#1-pattern-two-pointers)
+  - [2. Pattern: Fast \& Slow Pointers](#2-pattern-fast--slow-pointers)
+  - [3. Pattern: Sliding Window](#3-pattern-sliding-window)
+  - [4. Pattern: Merge Intervals](#4-pattern-merge-intervals)
+  - [5. Pattern: Cyclic Sort](#5-pattern-cyclic-sort)
+  - [6. Pattern: In-place Reversal of a Linked List](#6-pattern-in-place-reversal-of-a-linked-list)
+  - [7. Pattern: Stacks](#7-pattern-stacks)
+  - [8. Pattern: Monotonic Stack](#8-pattern-monotonic-stack)
+  - [9. Pattern: Hash Maps](#9-pattern-hash-maps)
+  - [10. Pattern: Tree BFS](#10-pattern-tree-bfs)
+  - [11. Pattern: Tree DFS](#11-pattern-tree-dfs)
+  - [12. Pattern: Two Heaps](#12-pattern-two-heaps)
+  - [13. Pattern: Subsets](#13-pattern-subsets)
+  - [14. Pattern: Modified Binary Search](#14-pattern-modified-binary-search)
+  - [15. Pattern: Bitwise XOR](#15-pattern-bitwise-xor)
+  - [16. Pattern: Top K Elements](#16-pattern-top-k-elements)
+  - [17. Pattern: K-way Merge](#17-pattern-k-way-merge)
+  - [18. Pattern: 0-1 Knapsack (DP)](#18-pattern-0-1-knapsack-dp)
+  - [19. Pattern: Topological Sort (Graph)](#19-pattern-topological-sort-graph)
+  - [20. Pattern: Union Find / Disjoint Set](#20-pattern-union-find--disjoint-set)
+  - [21. Pattern: Graph BFS/DFS](#21-pattern-graph-bfsdfs)
+  - [22. Pattern: Shortest Path (Dijkstra/ BFS)](#22-pattern-shortest-path-dijkstra-bfs)
+  - [23. Pattern: Backtracking](#23-pattern-backtracking)
+  - [24. Pattern: Matrix / Grid Traversal](#24-pattern-matrix--grid-traversal)
+  - [25. Pattern: Prefix Sum \& Difference Array](#25-pattern-prefix-sum--difference-array)
+  - [26. Pattern: Sweep Line](#26-pattern-sweep-line)
+  - [27. Pattern: Trie](#27-pattern-trie)
+  - [28. Pattern: Segment Tree / Binary Indexed Tree](#28-pattern-segment-tree--binary-indexed-tree)
+  - [29. Pattern: Misc \& Test Your Knowledge](#29-pattern-misc--test-your-knowledge)
 
 Below are the detailed problem lists for the first 30 patterns. For each problem, **EN** links to leetcode.com and **CN** links to leetcode.cn.
 
 ---
 
-## 1. Warmup
+## 0. Warmup
 
 - Contains Duplicate (easy) [LeetCode 217] --- [EN](https://leetcode.com/problems/contains-duplicate/) · [CN](https://leetcode.cn/problems/contains-duplicate/)
 
@@ -66,7 +66,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 2. Pattern: Two Pointers
+## 1. Pattern: Two Pointers
 
 - Pair with Target Sum (easy) – similar to "Two Sum II - Input array is sorted" [LeetCode 167] --- [EN](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) · [CN](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)
 
@@ -91,7 +91,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 3. Pattern: Fast & Slow Pointers
+## 2. Pattern: Fast & Slow Pointers
 
 - Linked List Cycle (easy) [LeetCode 141] --- [EN](https://leetcode.com/problems/linked-list-cycle/) · [CN](https://leetcode.cn/problems/linked-list-cycle/)
 
@@ -109,7 +109,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 4. Pattern: Sliding Window
+## 3. Pattern: Sliding Window
 
 - Maximum Sum Subarray of Size K (easy) [LeetCode 643] ("Maximum Average Subarray I") --- [EN](https://leetcode.com/problems/maximum-average-subarray-i/) · [CN](https://leetcode.cn/problems/maximum-average-subarray-i/)
 
@@ -137,7 +137,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 5. Pattern: Merge Intervals
+## 4. Pattern: Merge Intervals
 
 - Merge Intervals (medium) [LeetCode 56] --- [EN](https://leetcode.com/problems/merge-intervals/) · [CN](https://leetcode.cn/problems/merge-intervals/)
 
@@ -158,7 +158,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 6. Pattern: Cyclic Sort
+## 5. Pattern: Cyclic Sort
 
 - Cyclic Sort (easy)  
 	Note: template problem for cyclic sort; implement as custom exercise.
@@ -180,7 +180,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 7. Pattern: In-place Reversal of a Linked List
+## 6. Pattern: In-place Reversal of a Linked List
 
 - Reverse a Linked List (easy) [LeetCode 206] --- [EN](https://leetcode.com/problems/reverse-linked-list/) · [CN](https://leetcode.cn/problems/reverse-linked-list/)
 
@@ -195,7 +195,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 8. Pattern: Stacks
+## 7. Pattern: Stacks
 
 - Balanced Parentheses (Problem 1, easy) – "Valid Parentheses" [LeetCode 20] --- [EN](https://leetcode.com/problems/valid-parentheses/) · [CN](https://leetcode.cn/problems/valid-parentheses/)
 
@@ -213,7 +213,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 9. Pattern: Monotonic Stack
+## 8. Pattern: Monotonic Stack
 
 - Remove Nodes From Linked List (easy)  
 	Note: choose any linked list node-removal problem as practice, e.g. removing nodes that satisfy a condition.  
@@ -233,7 +233,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 10. Pattern: Hash Maps
+## 9. Pattern: Hash Maps
 
 - First Non-repeating Character (Problem 1, easy) – "First Unique Character in a String" [LeetCode 387] --- [EN](https://leetcode.com/problems/first-unique-character-in-a-string/) · [CN](https://leetcode.cn/problems/first-unique-character-in-a-string/)
 
@@ -247,7 +247,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 11. Pattern: Tree BFS
+## 10. Pattern: Tree BFS
 
 - Level Order Traversal (easy) – "Binary Tree Level Order Traversal" [LeetCode 102] --- [EN](https://leetcode.com/problems/binary-tree-level-order-traversal/) · [CN](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
 
@@ -267,7 +267,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 12. Pattern: Tree DFS
+## 11. Pattern: Tree DFS
 
 - Binary Tree Path Sum (easy) – "Path Sum" [LeetCode 112] --- [EN](https://leetcode.com/problems/path-sum/) · [CN](https://leetcode.cn/problems/path-sum/)
 
@@ -281,7 +281,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 13. Pattern: Two Heaps
+## 12. Pattern: Two Heaps
 
 - Find the Median of a Number Stream (hard) – "Find Median from Data Stream" [LeetCode 295] --- [EN](https://leetcode.com/problems/find-median-from-data-stream/) · [CN](https://leetcode.cn/problems/find-median-from-data-stream/)
 
@@ -291,7 +291,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 14. Pattern: Subsets
+## 13. Pattern: Subsets
 
 - Subsets (easy) [LeetCode 78] --- [EN](https://leetcode.com/problems/subsets/) · [CN](https://leetcode.cn/problems/subsets/)
 
@@ -307,7 +307,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 15. Pattern: Modified Binary Search
+## 14. Pattern: Modified Binary Search
 
 - Binary Search (easy) – template problem; use classic binary search on a sorted array.
 
@@ -333,7 +333,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 16. Pattern: Bitwise XOR
+## 15. Pattern: Bitwise XOR
 
 - Single Number (easy) [LeetCode 136] --- [EN](https://leetcode.com/problems/single-number/) · [CN](https://leetcode.cn/problems/single-number/)
 
@@ -343,7 +343,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 17. Pattern: Top K Elements
+## 16. Pattern: Top K Elements
 
 - Top K Numbers (easy) – standard "k largest elements" heap exercise; can relate to "Kth Largest Element in an Array" [LeetCode 215] --- [EN](https://leetcode.com/problems/kth-largest-element-in-an-array/) · [CN](https://leetcode.cn/problems/kth-largest-element-in-an-array/)
 
@@ -375,7 +375,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 18. Pattern: K-way Merge
+## 17. Pattern: K-way Merge
 
 - Merge K Sorted Lists (hard) [LeetCode 23] --- [EN](https://leetcode.com/problems/merge-k-sorted-lists/) · [CN](https://leetcode.cn/problems/merge-k-sorted-lists/)
 
@@ -387,7 +387,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 19. Pattern: 0-1 Knapsack (DP)
+## 18. Pattern: 0-1 Knapsack (DP)
 
 - 0-1 Knapsack (medium) – classic knapsack DP; can implement in 2D or 1D optimized form.
 
@@ -405,7 +405,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 20. Pattern: Topological Sort (Graph)
+## 19. Pattern: Topological Sort (Graph)
 
 - Topological Sort (medium) – classic Kahn's algorithm / DFS-based topo sort on DAG; treat as core pattern.
 
@@ -419,7 +419,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 21. Pattern: Union Find / Disjoint Set
+## 20. Pattern: Union Find / Disjoint Set
 
 - Graph Valid Tree (medium) – custom exercise; implement Union Find / BFS to check if an undirected graph is a tree. Closely related to connectivity + cycle detection.
 
@@ -435,7 +435,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 22. Pattern: Graph BFS/DFS
+## 21. Pattern: Graph BFS/DFS
 
 - Number of Islands (medium) [LeetCode 200] --- [EN](https://leetcode.com/problems/number-of-islands/) · [CN](https://leetcode.cn/problems/number-of-islands/)
 
@@ -451,7 +451,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 23. Pattern: Shortest Path (Dijkstra/ BFS)
+## 22. Pattern: Shortest Path (Dijkstra/ BFS)
 
 - Shortest Path in Binary Matrix (medium) [LeetCode 1091] --- [EN](https://leetcode.com/problems/shortest-path-in-binary-matrix/) · [CN](https://leetcode.cn/problems/shortest-path-in-binary-matrix/)
 
@@ -465,7 +465,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 24. Pattern: Backtracking
+## 23. Pattern: Backtracking
 
 - Combinations (medium) [LeetCode 77] --- [EN](https://leetcode.com/problems/combinations/) · [CN](https://leetcode.cn/problems/combinations/)
 
@@ -481,7 +481,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 25. Pattern: Matrix / Grid Traversal
+## 24. Pattern: Matrix / Grid Traversal
 
 - Spiral Matrix (medium) [LeetCode 54] --- [EN](https://leetcode.com/problems/spiral-matrix/) · [CN](https://leetcode.cn/problems/spiral-matrix/)
 
@@ -497,7 +497,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 26. Pattern: Prefix Sum & Difference Array
+## 25. Pattern: Prefix Sum & Difference Array
 
 - Range Sum Query - Immutable (easy) [LeetCode 303] --- [EN](https://leetcode.com/problems/range-sum-query-immutable/) · [CN](https://leetcode.cn/problems/range-sum-query-immutable/)
 
@@ -513,7 +513,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 27. Pattern: Sweep Line
+## 26. Pattern: Sweep Line
 
 - Meeting Rooms (easy) [LeetCode 252] --- [EN](https://leetcode.com/problems/meeting-rooms/) · [CN](https://leetcode.cn/problems/meeting-rooms/)
 
@@ -527,7 +527,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 28. Pattern: Trie
+## 27. Pattern: Trie
 
 - Implement Trie (Prefix Tree) (medium) [LeetCode 208] --- [EN](https://leetcode.com/problems/implement-trie-prefix-tree/) · [CN](https://leetcode.cn/problems/implement-trie-prefix-tree/)
 
@@ -541,7 +541,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 29. Pattern: Segment Tree / Binary Indexed Tree
+## 28. Pattern: Segment Tree / Binary Indexed Tree
 
 - Range Sum Query - Mutable (medium) [LeetCode 307] --- [EN](https://leetcode.com/problems/range-sum-query-mutable/) · [CN](https://leetcode.cn/problems/range-sum-query-mutable/)
 
@@ -553,7 +553,7 @@ Below are the detailed problem lists for the first 30 patterns. For each problem
 
 ---
 
-## 30. Pattern: Misc & Test Your Knowledge
+## 29. Pattern: Misc & Test Your Knowledge
 
 - LRU Cache (medium) [LeetCode 146] --- [EN](https://leetcode.com/problems/lru-cache/) · [CN](https://leetcode.cn/problems/lru-cache/)
 
