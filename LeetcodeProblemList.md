@@ -6,28 +6,29 @@ This file summarizes all problems grouped by module. For each LeetCode problem, 
 
 ## 1. Array
 
-From the Binary Search section:
+### Binary Search:
 - Binary Search (easy) [LeetCode 704] --- [EN](https://leetcode.com/problems/binary-search/) · [CN](https://leetcode.cn/problems/binary-search/)
 - Search Insert Position (easy) [LeetCode 35] --- [EN](https://leetcode.com/problems/search-insert-position/) · [CN](https://leetcode.cn/problems/search-insert-position/)
 - Find First and Last Position of Element in Sorted Array (medium) [LeetCode 34] --- [EN](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) · [CN](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - Sqrt(x) (easy) [LeetCode 69] --- [EN](https://leetcode.com/problems/sqrtx/) · [CN](https://leetcode.cn/problems/sqrtx/)
 - Valid Perfect Square (easy) [LeetCode 367] --- [EN](https://leetcode.com/problems/valid-perfect-square/) · [CN](https://leetcode.cn/problems/valid-perfect-square/)
 
-From the Remove Element section:
+### Remove Element:
 - Remove Element (easy) [LeetCode 27] --- [EN](https://leetcode.com/problems/remove-element/) · [CN](https://leetcode.cn/problems/remove-element/)
 - Remove Duplicates from Sorted Array (easy) [LeetCode 26] --- [EN](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) · [CN](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
 - Move Zeroes (easy) [LeetCode 283] --- [EN](https://leetcode.com/problems/move-zeroes/) · [CN](https://leetcode.cn/problems/move-zeroes/)
 - Backspace String Compare (easy) [LeetCode 844] --- [EN](https://leetcode.com/problems/backspace-string-compare/) · [CN](https://leetcode.cn/problems/backspace-string-compare/)
 - Squares of a Sorted Array (easy) [LeetCode 977] --- [EN](https://leetcode.com/problems/squares-of-a-sorted-array/) · [CN](https://leetcode.cn/problems/squares-of-a-sorted-array/)
 
-From the Minimum Size Subarray Sum (sliding window) section:
-- Minimum Size Subarray Sum (medium) [LeetCode 209] --- [EN](https://leetcode.com/problems/minimum-size-subarray-sum/) · [CN](https://leetcode.cn/problems/minimum-size-subarray-sum/)
+### Sorted Array Squares:
 - Squares of a Sorted Array (easy) [LeetCode 977] --- [EN](https://leetcode.com/problems/squares-of-a-sorted-array/) · [CN](https://leetcode.cn/problems/squares-of-a-sorted-array/)
+
+### Minimum Size Subarray Sum (sliding window):
+- Minimum Size Subarray Sum (medium) [LeetCode 209] --- [EN](https://leetcode.com/problems/minimum-size-subarray-sum/) · [CN](https://leetcode.cn/problems/minimum-size-subarray-sum/)
 - Fruit Into Baskets (medium) [LeetCode 904] --- [EN](https://leetcode.com/problems/fruit-into-baskets/) · [CN](https://leetcode.cn/problems/fruit-into-baskets/)
 - Minimum Window Substring (hard) [LeetCode 76] --- [EN](https://leetcode.com/problems/minimum-window-substring/) · [CN](https://leetcode.cn/problems/minimum-window-substring/)
 
-From the Spiral Matrix II section:
-
+### Spiral Matrix II:
 - Spiral Matrix (medium) [LeetCode 54] --- [EN](https://leetcode.com/problems/spiral-matrix/) · [CN](https://leetcode.cn/problems/spiral-matrix/)
 - Spiral Matrix II (medium) [LeetCode 59] --- [EN](https://leetcode.com/problems/spiral-matrix-ii/) · [CN](https://leetcode.cn/problems/spiral-matrix-ii/)
 - Spiral Order Print Matrix (Jianzhi Offer 29) --- [CN](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
@@ -37,7 +38,6 @@ From the Spiral Matrix II section:
 
 ## 2. Linked List
 
-Core linked list problems listed in `代码.txt`:
 
 - Remove Linked List Elements (easy) [LeetCode 203] --- [EN](https://leetcode.com/problems/remove-linked-list-elements/) · [CN](https://leetcode.cn/problems/remove-linked-list-elements/)
 - Design Linked List (medium) [LeetCode 707] --- [EN](https://leetcode.com/problems/design-linked-list/) · [CN](https://leetcode.cn/problems/design-linked-list/)
@@ -113,7 +113,6 @@ Core stack/queue problems:
 
 ## 7. Binary Tree
 
-The following is the de-duplicated list of binary tree problems from `代码.txt`:
 
 - Binary Tree Preorder Traversal (easy) [LeetCode 144] --- [EN](https://leetcode.com/problems/binary-tree-preorder-traversal/) · [CN](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
 - Binary Tree Postorder Traversal (easy) [LeetCode 145] --- [EN](https://leetcode.com/problems/binary-tree-postorder-traversal/) · [CN](https://leetcode.cn/problems/binary-tree-postorder-traversal/)
@@ -156,7 +155,6 @@ The following is the de-duplicated list of binary tree problems from `代码.txt
 
 ## 8. Backtracking
 
-Grouped by topic as in `代码.txt`:
 
 ### H1. Combination Problems
 
@@ -267,4 +265,3 @@ Core greedy problems:
 
 ---
 
-*This Markdown file is generated from the textual description in `代码.txt`, organizing all mentioned problems with LeetCode EN/CN links where applicable.*
